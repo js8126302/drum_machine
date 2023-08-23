@@ -2,7 +2,7 @@
   "name": "drum_machine_2",
   "version": "0.1.0",
   "private": true,
-   "homepage": "https://js8126302.github.io/drum_machine"
+   "homepage": "https://js8126302.github.io/drum_machine/public/index.html"
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
